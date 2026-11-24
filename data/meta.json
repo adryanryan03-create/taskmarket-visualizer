@@ -1,0 +1,27 @@
+{
+  "fetchedAt": "2026-11-24T19:39:18.785Z",
+  "source": "https://api.taskmarket.dev",
+  "chains": [
+    {
+      "id": 4217,
+      "key": "tempo",
+      "name": "Tempo",
+      "symbol": "OUSD"
+    },
+    {
+      "id": 8453,
+      "key": "base",
+      "name": "Base",
+      "symbol": "USDC"
+    }
+  ],
+  "endpoints": [
+    "/api/market/stats",
+    "/api/stats/breakdowns",
+    "/api/stats/platform-time-series",
+    "/api/stats/activity-heatmap",
+    "/api/stats/activity-feed",
+    "/api/tasks"
+  ],
+  "note": "Breakdowns, time series and heatmaps come back identical for both chainIds (platform-wide). market/stats differs only in paidWorkers and activeWallets. Per-chain splits on this dashboard are computed from the /api/tasks list, which is chain-specific."
+}
