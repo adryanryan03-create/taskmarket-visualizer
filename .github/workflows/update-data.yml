@@ -3,7 +3,9 @@ name: Update market data
 # Fetches Taskmarket market data server-side once an hour and commits it.
 # The static site never calls the API from the browser (the API blocks
 # cross-origin browser requests), so this job is the only data path.
-# Pushing the new data triggers the Deploy workflow.
+# The data push uses the built-in GITHUB_TOKEN, whose pushes do not
+# trigger other workflows, so after committing this job dispatches the
+# Deploy workflow explicitly (workflow_dispatch is exempt from that rule).
 
 on:
   schedule:
@@ -12,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   update:
@@ -30,3 +33,7 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "data: hourly refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
+      - name: Trigger deploy
+        run: gh workflow run deploy.yml
+        env:
+          GH_TOKEN: ${{ github.token }}
