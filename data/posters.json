@@ -1,0 +1,138 @@
+{
+  "fetchedAt": "2026-11-24T19:39:18.785Z",
+  "weeks": [
+    {
+      "week": "2026-09-07",
+      "tempoPosters": 0,
+      "basePosters": 4,
+      "distinctPosters": 4,
+      "tempoTasks": 0,
+      "baseTasks": 27,
+      "tasks": 27,
+      "topPosterTasks": 12,
+      "topPosterShare": 0.444
+    },
+    {
+      "week": "2026-09-14",
+      "tempoPosters": 0,
+      "basePosters": 7,
+      "distinctPosters": 7,
+      "tempoTasks": 0,
+      "baseTasks": 26,
+      "tasks": 26,
+      "topPosterTasks": 9,
+      "topPosterShare": 0.346
+    },
+    {
+      "week": "2026-09-21",
+      "tempoPosters": 0,
+      "basePosters": 5,
+      "distinctPosters": 5,
+      "tempoTasks": 0,
+      "baseTasks": 15,
+      "tasks": 15,
+      "topPosterTasks": 9,
+      "topPosterShare": 0.6
+    },
+    {
+      "week": "2026-09-28",
+      "tempoPosters": 0,
+      "basePosters": 7,
+      "distinctPosters": 7,
+      "tempoTasks": 0,
+      "baseTasks": 25,
+      "tasks": 25,
+      "topPosterTasks": 15,
+      "topPosterShare": 0.6
+    },
+    {
+      "week": "2026-10-05",
+      "tempoPosters": 0,
+      "basePosters": 7,
+      "distinctPosters": 7,
+      "tempoTasks": 0,
+      "baseTasks": 34,
+      "tasks": 34,
+      "topPosterTasks": 15,
+      "topPosterShare": 0.441
+    },
+    {
+      "week": "2026-10-12",
+      "tempoPosters": 0,
+      "basePosters": 6,
+      "distinctPosters": 6,
+      "tempoTasks": 0,
+      "baseTasks": 20,
+      "tasks": 20,
+      "topPosterTasks": 6,
+      "topPosterShare": 0.3
+    },
+    {
+      "week": "2026-10-19",
+      "tempoPosters": 2,
+      "basePosters": 6,
+      "distinctPosters": 7,
+      "tempoTasks": 3,
+      "baseTasks": 11,
+      "tasks": 14,
+      "topPosterTasks": 4,
+      "topPosterShare": 0.286
+    },
+    {
+      "week": "2026-10-26",
+      "tempoPosters": 5,
+      "basePosters": 111,
+      "distinctPosters": 115,
+      "tempoTasks": 16,
+      "baseTasks": 136,
+      "tasks": 152,
+      "topPosterTasks": 9,
+      "topPosterShare": 0.059
+    },
+    {
+      "week": "2026-11-02",
+      "tempoPosters": 8,
+      "basePosters": 74,
+      "distinctPosters": 82,
+      "tempoTasks": 28,
+      "baseTasks": 81,
+      "tasks": 109,
+      "topPosterTasks": 11,
+      "topPosterShare": 0.101
+    },
+    {
+      "week": "2026-11-09",
+      "tempoPosters": 5,
+      "basePosters": 3,
+      "distinctPosters": 8,
+      "tempoTasks": 164,
+      "baseTasks": 7,
+      "tasks": 171,
+      "topPosterTasks": 157,
+      "topPosterShare": 0.918
+    },
+    {
+      "week": "2026-11-16",
+      "tempoPosters": 22,
+      "basePosters": 7,
+      "distinctPosters": 29,
+      "tempoTasks": 507,
+      "baseTasks": 12,
+      "tasks": 519,
+      "topPosterTasks": 175,
+      "topPosterShare": 0.337
+    },
+    {
+      "week": "2026-11-23",
+      "tempoPosters": 15,
+      "basePosters": 2,
+      "distinctPosters": 16,
+      "tempoTasks": 108,
+      "baseTasks": 2,
+      "tasks": 110,
+      "topPosterTasks": 49,
+      "topPosterShare": 0.445
+    }
+  ],
+  "totalTasksSeen": 1508
+}
