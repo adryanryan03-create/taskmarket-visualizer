@@ -1,9 +1,33 @@
 {
-  "fetchedAt": "2026-11-26T07:00:12.196Z",
+  "fetchedAt": "2026-11-26T18:09:33.674Z",
   "chain": "base",
   "chainId": 8453,
-  "count": 682,
+  "count": 684,
   "tasks": [
+    {
+      "id": "0xee4c7441eb5d499694e7aeb6e6cdb1d8d094568561a4d1e03b8523784b9032e7",
+      "ref": "TSK-9HZ2MPQG",
+      "chainId": 8453,
+      "requester": "0xfb8B934D1Bd31f0786bD4a971cC45d67DEDB09c6",
+      "status": "open",
+      "mode": "bounty",
+      "reward": "500000",
+      "netReward": "500000",
+      "createdAt": "2026-11-26T16:47:03.354Z",
+      "title": "fetch a map"
+    },
+    {
+      "id": "0xec16c551eebc61b7477ff85a8e08a2130cc6dbb4901c7ad1ea9f8e6bd65b43df",
+      "ref": "TSK-MEN295QQ",
+      "chainId": 8453,
+      "requester": "0x506C465C64920E1Fa9adE703ffCd87118354d026",
+      "status": "open",
+      "mode": "bounty",
+      "reward": "1000000",
+      "netReward": "1000000",
+      "createdAt": "2026-11-26T14:23:39.869Z",
+      "title": "FlapJax Series 3, task Q106 (first-timers only): list our treasury's FLAPJAX outflows of 11-25 and group recipients by first BNB funder. …"
+    },
     {
       "id": "0x3530b68f364cf93cb8a53a7b5a0e6109f1a4a6634786ae3ef262bb2d7a527013",
       "ref": "TSK-JNEHTD5J",
@@ -33,7 +57,7 @@
       "ref": "TSK-WS0PGGED",
       "chainId": 8453,
       "requester": "0x3F6BC60C4F325C2c11e2293921bEf7cC271C7fAD",
-      "status": "pending_approval",
+      "status": "completed",
       "mode": "pitch",
       "reward": "2000000",
       "netReward": "2000000",
