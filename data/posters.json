@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T18:09:33.674Z",
+  "fetchedAt": "2026-11-27T02:02:35.226Z",
   "weeks": [
     {
       "week": "2026-09-07",
@@ -124,15 +124,15 @@
     },
     {
       "week": "2026-11-23",
-      "tempoPosters": 21,
+      "tempoPosters": 20,
       "basePosters": 3,
-      "distinctPosters": 23,
-      "tempoTasks": 529,
+      "distinctPosters": 22,
+      "tempoTasks": 661,
       "baseTasks": 4,
-      "tasks": 533,
-      "topPosterTasks": 288,
-      "topPosterShare": 0.54
+      "tasks": 665,
+      "topPosterTasks": 416,
+      "topPosterShare": 0.626
     }
   ],
-  "totalTasksSeen": 1931
+  "totalTasksSeen": 2063
 }
