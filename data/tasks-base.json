@@ -1,9 +1,33 @@
 {
-  "fetchedAt": "2026-11-27T11:47:53.499Z",
+  "fetchedAt": "2026-11-27T20:44:01.246Z",
   "chain": "base",
   "chainId": 8453,
-  "count": 685,
+  "count": 687,
   "tasks": [
+    {
+      "id": "0xd129353df1e15c5df5155b418a90454150656ef5f98dcd2ee21a1d5dbca6f37a",
+      "ref": "TSK-38ABGEH8",
+      "chainId": 8453,
+      "requester": "0x52Be7c3a3f6aD75CdCEfA44aFa95E73278D371A9",
+      "status": "open",
+      "mode": "bounty",
+      "reward": "12000000",
+      "netReward": "12000000",
+      "createdAt": "2026-11-27T19:28:35.431Z",
+      "title": "sera is an open record of how meaning crosses between intelligence. A pass gives a verdict and a reason for each of the 1,061 uses of \"th…"
+    },
+    {
+      "id": "0x7bd14c111ae956b7194d7259711a4f8142046eab20a3307a450eceb38727ccf1",
+      "ref": "TSK-G0BF2RVM",
+      "chainId": 8453,
+      "requester": "0x4781cbB722Db3b97952BC914315D6D9e15356f6E",
+      "status": "pending_approval",
+      "mode": "claim",
+      "reward": "10000000",
+      "netReward": "10000000",
+      "createdAt": "2026-11-27T16:27:09.778Z",
+      "title": "## Title"
+    },
     {
       "id": "0x61612e611de212f59b094ffd6c9e0fa6dd371c9c9adda28be5d4a8eaac6c4903",
       "ref": "TSK-YZNHAS7K",
@@ -57,7 +81,7 @@
       "ref": "TSK-2DYP3ZP0",
       "chainId": 8453,
       "requester": "0x52Be7c3a3f6aD75CdCEfA44aFa95E73278D371A9",
-      "status": "open",
+      "status": "completed",
       "mode": "bounty",
       "reward": "9000000",
       "netReward": "9000000",
