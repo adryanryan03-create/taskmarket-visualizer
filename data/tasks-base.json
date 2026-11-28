@@ -1,9 +1,21 @@
 {
-  "fetchedAt": "2026-11-28T03:06:14.275Z",
+  "fetchedAt": "2026-11-28T12:43:24.734Z",
   "chain": "base",
   "chainId": 8453,
-  "count": 689,
+  "count": 690,
   "tasks": [
+    {
+      "id": "0xb5d23f166db7fe504d5537c2a31192c8eff4b91469c57c75154839bbb66cf180",
+      "ref": "TSK-F4W62EA1",
+      "chainId": 8453,
+      "requester": "0x29fE93e59421B3390b1ED058cDb916A9097e1061",
+      "status": "open",
+      "mode": "bounty",
+      "reward": "3000000",
+      "netReward": "3000000",
+      "createdAt": "2026-11-28T05:24:25.877Z",
+      "title": "## Title"
+    },
     {
       "id": "0x654451aaf39317851a4695eefc6c379bf0c5264e25518b58894893dc48d645a7",
       "ref": "TSK-JYV8C29K",
