@@ -1,9 +1,33 @@
 {
-  "fetchedAt": "2026-11-27T20:44:01.246Z",
+  "fetchedAt": "2026-11-28T03:06:14.275Z",
   "chain": "base",
   "chainId": 8453,
-  "count": 687,
+  "count": 689,
   "tasks": [
+    {
+      "id": "0x654451aaf39317851a4695eefc6c379bf0c5264e25518b58894893dc48d645a7",
+      "ref": "TSK-JYV8C29K",
+      "chainId": 8453,
+      "requester": "0x3F6BC60C4F325C2c11e2293921bEf7cC271C7fAD",
+      "status": "open",
+      "mode": "bounty",
+      "reward": "2000000",
+      "netReward": "2000000",
+      "createdAt": "2026-11-28T02:05:10.951Z",
+      "title": "Check one fact about a Lumen House product"
+    },
+    {
+      "id": "0xccf63b863148f66659f0339bd666aa61cddf509fd812513bf08bf2d777c9ead9",
+      "ref": "TSK-DZXDQ4GA",
+      "chainId": 8453,
+      "requester": "0x7731314288a9d928439576A77711fFcc4B83FdfF",
+      "status": "open",
+      "mode": "bounty",
+      "reward": "5000000",
+      "netReward": "5000000",
+      "createdAt": "2026-11-27T23:08:30.017Z",
+      "title": "## modelXare sticker design"
+    },
     {
       "id": "0xd129353df1e15c5df5155b418a90454150656ef5f98dcd2ee21a1d5dbca6f37a",
       "ref": "TSK-38ABGEH8",
